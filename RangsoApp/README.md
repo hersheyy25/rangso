@@ -1,13 +1,13 @@
-# RangsoApp
+# RangsoApp!
 
 This folder will include the source code for the iOS app.
 
-## Development Tools
+## Development Tools!
 Language: Swift
 UI Framework: SwiftUI
 IDE: Xcode
 
-## Folder Structure
+## Folder Structure!
 
 As we develop the app the source files will be organised into folders:
 
